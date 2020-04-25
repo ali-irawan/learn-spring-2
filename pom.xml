@@ -55,12 +55,6 @@
 			</exclusions>
 		</dependency>
 		
-		<dependency>
-			<groupId>com.devtalks.spring</groupId>
-			<artifactId>session1</artifactId>
-			<version>${spring.session1.version}</version>
-			<scope>compile</scope>
-		</dependency>
 	</dependencies>
 
 	<build>

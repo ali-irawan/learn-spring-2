@@ -9,9 +9,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 @Controller
 public class LoginController {
 
-	// @Autowired
-	// private Login loginService;
-	
 	@RequestMapping(value = "/login", method = RequestMethod.GET)
 	public String loginPage() {
 
